@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "libelle": "Product A",
+    "prix": 10.99,
+    "date": "2023-06-01"
+  },
+  {
+    "id": 2,
+    "libelle": "Product B",
+    "prix": 15.49,
+    "date": "2023-06-02"
+  },
+  {
+    "id": 3,
+    "libelle": "Product C",
+    "prix": 5.99,
+    "date": "2023-06-03"
+  }
+]

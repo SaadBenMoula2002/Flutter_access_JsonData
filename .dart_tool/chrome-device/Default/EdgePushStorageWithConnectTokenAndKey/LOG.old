@@ -1,0 +1,18 @@
+2023/06/06-16:42:45.832 fecc Log #3: 13 ops saved to Table #17 OK
+2023/06/06-16:42:45.834 fecc Archiving C:\Users\Saadb\AppData\Local\Temp\flutter_tools.2b80fffb\flutter_tools_chrome_device.570d4281\Default\EdgePushStorageWithConnectTokenAndKey/000003.log: OK
+2023/06/06-16:42:45.836 fecc Log #6: 8 ops saved to Table #18 OK
+2023/06/06-16:42:45.837 fecc Archiving C:\Users\Saadb\AppData\Local\Temp\flutter_tools.2b80fffb\flutter_tools_chrome_device.570d4281\Default\EdgePushStorageWithConnectTokenAndKey/000006.log: OK
+2023/06/06-16:42:45.840 fecc Log #10: 9 ops saved to Table #19 OK
+2023/06/06-16:42:45.842 fecc Archiving C:\Users\Saadb\AppData\Local\Temp\flutter_tools.2b80fffb\flutter_tools_chrome_device.570d4281\Default\EdgePushStorageWithConnectTokenAndKey/000010.log: OK
+2023/06/06-16:42:45.845 fecc Log #15: 10 ops saved to Table #20 OK
+2023/06/06-16:42:45.847 fecc Archiving C:\Users\Saadb\AppData\Local\Temp\flutter_tools.2b80fffb\flutter_tools_chrome_device.570d4281\Default\EdgePushStorageWithConnectTokenAndKey/000015.log: OK
+2023/06/06-16:42:45.847 fecc Table #4: 13 entries OK
+2023/06/06-16:42:45.847 fecc Table #7: 13 entries OK
+2023/06/06-16:42:45.847 fecc Table #8: 8 entries OK
+2023/06/06-16:42:45.848 fecc Table #16: 13 entries OK
+2023/06/06-16:42:45.848 fecc Table #17: 13 entries OK
+2023/06/06-16:42:45.848 fecc Table #18: 8 entries OK
+2023/06/06-16:42:45.848 fecc Table #19: 9 entries OK
+2023/06/06-16:42:45.848 fecc Table #20: 10 entries OK
+2023/06/06-16:42:45.854 fecc Archiving C:\Users\Saadb\AppData\Local\Temp\flutter_tools.2b80fffb\flutter_tools_chrome_device.570d4281\Default\EdgePushStorageWithConnectTokenAndKey/MANIFEST-000001: OK
+2023/06/06-16:42:45.866 fecc **** Repaired leveldb C:\Users\Saadb\AppData\Local\Temp\flutter_tools.2b80fffb\flutter_tools_chrome_device.570d4281\Default\EdgePushStorageWithConnectTokenAndKey; recovered 8 files; 20195 bytes. Some data may have been lost. ****
